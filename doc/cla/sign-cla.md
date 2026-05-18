@@ -14,8 +14,7 @@ requirement is explained in the [FAQ](#faq).
     If your GitHub login is `ODony`, the file would be
     `doc/cla/individual/odony.md`. The file should contain:
 
-```
-<country>, <date>
+INDIA, 2026-05-18
 
 I hereby agree to the terms of the Odoo Individual Contributor License
 Agreement v1.0.
@@ -25,8 +24,9 @@ declaration.
 
 Signed,
 
-<name> <git_email> https://github.com/<login>
-```
+Kanak Bansal
+kanakbansal45886@gmail.com
+https://github.com/kanak-bansal
 
     Replacing the following placeholders:
 
